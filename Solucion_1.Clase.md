@@ -23,7 +23,6 @@ Desarrollar un programa que controle una secuencia de LEDs mediante los pulsador
 ```C
 /*==================[inclusions]=============================================*/
 #include "sapi.h"              // <= sAPI header
-#include "stdio.h"
 /* FUNCION PRINCIPAL, PUNTO DE ENTRADA AL PROGRAMA LUEGO DE RESET. */
 int main(void){
 	/* Inicializar la placa */
