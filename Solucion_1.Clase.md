@@ -93,7 +93,7 @@ int main(void){
 /*==================[Fin del Codigo]============================================*/
 
 ```
-## Ejercicio 1 [Opcional]
+## Ejercicio 2 [Opcional]
 
 ### Objetivo
 
