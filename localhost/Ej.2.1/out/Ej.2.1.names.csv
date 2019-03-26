@@ -1,0 +1,218 @@
+localhost/Ej.2.1/out/Ej.2.1.elf:1a00043c 00000044 t Board_LED_Init
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000480 00000040 t Board_TEC_Init
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0004c0 00000040 t Board_GPIO_Init
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000500 00000030 t Board_ADC_Init
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000530 00000038 t Board_SPI_Init
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000568 00000024 t Board_I2C_Init
+localhost/Ej.2.1/out/Ej.2.1.elf:1a002244 00000008 t GpioButtons
+localhost/Ej.2.1/out/Ej.2.1.elf:1a00224c 0000000c t GpioLeds
+localhost/Ej.2.1/out/Ej.2.1.elf:1a002258 00000012 t GpioPorts
+localhost/Ej.2.1/out/Ej.2.1.elf:1a002270 00000004 t InitClkStates
+localhost/Ej.2.1/out/Ej.2.1.elf:1a002274 00000074 t pinmuxing
+localhost/Ej.2.1/out/Ej.2.1.elf:10000000 00000038 d i2c
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000710 0000002c t Chip_UART_GetIndex
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0022e8 00000008 t UART_BClock
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0022f0 00000008 t UART_PClock
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000878 00000014 t Chip_ADC_GetClockIndex
+localhost/Ej.2.1/out/Ej.2.1.elf:1a00088c 00000032 t getClkDiv
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000940 000000a4 t pll_calc_divs
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0009e4 0000010c t pll_get_frac
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000af0 0000004c t Chip_Clock_FindBaseClock
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000d64 00000022 t Chip_Clock_GetDivRate
+localhost/Ej.2.1/out/Ej.2.1.elf:10000088 00000008 b audio_usb_pll_freq
+localhost/Ej.2.1/out/Ej.2.1.elf:1a002304 0000006c t periph_to_base
+localhost/Ej.2.1/out/Ej.2.1.elf:1a002370 00000048 t InitClkStates
+localhost/Ej.2.1/out/Ej.2.1.elf:1a00103c 00000014 t Chip_SSP_GetClockIndex
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001050 00000018 t Chip_SSP_GetPeriphClockIndex
+localhost/Ej.2.1/out/Ej.2.1.elf:10000038 00000004 d ClockSpeed
+localhost/Ej.2.1/out/Ej.2.1.elf:10000090 00000004 b callBackFuncParams
+localhost/Ej.2.1/out/Ej.2.1.elf:10000098 00000008 b tickCounter
+localhost/Ej.2.1/out/Ej.2.1.elf:100000a0 00000004 b tickHookFunction
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001218 00000034 t gpioObtainPinInit
+localhost/Ej.2.1/out/Ej.2.1.elf:100000a4 00000004 b g_hUsb
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0015ac 00000010 t clearInterrupt
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0015bc 0000005c t serveInterrupt
+localhost/Ej.2.1/out/Ej.2.1.elf:1000003c 00000048 d ultrasonicSensors
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0024f0 00000003 t ultrasonicSensorsIrqMap
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0024f8 t __init_array_end
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0024f4 b __preinit_array_end
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0024f4 t __init_array_start
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0024f4 b __preinit_array_start
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000b88 0000001c T Chip_Clock_GetDividerSource
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W TIMER2_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000184 00000002 W DebugMon_Handler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W RIT_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a080000 A __top_MFlashA512
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W ADCHS_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000114 T __section_table_start
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W FLASH_EEPROM_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001954 0000005a T __floatdidf
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W I2C0_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0005dc 00000008 T __stdio_init
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001568 00000042 T delayRead
+localhost/Ej.2.1/out/Ej.2.1.elf:1a00017a 00000002 W HardFault_Handler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000000 A __vectors_start__
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000932 0000000c T Chip_ADC_SetResolution
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0011e4 00000034 T SysTick_Handler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0003ac 00000002 W initialise_monitor_handles
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W SDIO_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W ATIMER_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000186 00000002 W PendSV_Handler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000178 00000002 W NMI_Handler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a002500 R __exidx_end
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000150 T __data_section_table_end
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W I2C1_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W UART1_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W GPIO5_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W CAN1_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:53ff74de A __valid_user_code_checksum
+localhost/Ej.2.1/out/Ej.2.1.elf:1a002500 R _etext
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W USB1_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W I2S0_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W TIMER3_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000e06 0000000c T Chip_Clock_GetBaseClocktHz
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W UART0_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001a8 00000012 T bss_init
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W SGPIO_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0018dc 00000022 T __floatsidf
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001dd4 T __aeabi_uldivmod
+localhost/Ej.2.1/out/Ej.2.1.elf:100000bc ? _noinit
+localhost/Ej.2.1/out/Ej.2.1.elf:100000a8 00000004 B SystemCoreClock
+localhost/Ej.2.1/out/Ej.2.1.elf:1a00073c 00000054 T Chip_UART_Init
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W ADC0_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000180 00000002 W UsageFault_Handler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000e84 0000004c T Chip_Clock_GetRate
+localhost/Ej.2.1/out/Ej.2.1.elf:1a002118 00000040 T __fixunsdfsi
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W GPIO6_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a00061c 0000006c T Board_SetupClocking
+localhost/Ej.2.1/out/Ej.2.1.elf:20008000 A __top_RamAHB32
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0018bc 0000001e T __aeabi_ui2d
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001e48 000002cc T __udivmoddi4
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001638 T __aeabi_drsub
+localhost/Ej.2.1/out/Ej.2.1.elf:1a002240 00000004 T ExtRateIn
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W IntDefaultHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000300 T __CRP_WORD_END__
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001622 0000000a T GPIO1_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001900 00000042 T __extendsfdf2
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001c04 000001d0 T __aeabi_ddiv
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W SSP0_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001644 00000276 T __adddf3
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0024f8 R __exidx_start
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0019b0 00000254 T __aeabi_dmul
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0002fc 00000004 T CRP_WORD
+localhost/Ej.2.1/out/Ej.2.1.elf:1a002158 00000048 T __libc_init_array
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0018bc 0000001e T __floatunsidf
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W ADC1_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0005b0 0000002c T Board_Init
+localhost/Ej.2.1/out/Ej.2.1.elf:1a00043a 00000002 W _init
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000114 T __data_section_table
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001e04 00000044 T __aeabi_d2ulz
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W RTC_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:100000bc B _ebss
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W TIMER0_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0003b0 00000088 T Reset_Handler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001168 0000007c T tickInit
+localhost/Ej.2.1/out/Ej.2.1.elf:20010000 A __top_RamAHB_ETB16
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W SPI_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0006d8 00000038 T Chip_I2C_SetClockRate
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W LCD_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000b3c 0000004c T Chip_Clock_EnableCrystal
+localhost/Ej.2.1/out/Ej.2.1.elf:10008000 A __top_RamLoc32
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001644 00000276 T __aeabi_dadd
+localhost/Ej.2.1/out/Ej.2.1.elf:1a00018a 0000001e T data_init
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001944 0000006a T __aeabi_ul2d
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W TIMER1_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0006b4 00000024 T Chip_I2C_Init
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W UART2_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000cf8 0000006c T Chip_Clock_GetMainPLLHz
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0023b8 00000136 T gpioPinsInit
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001068 00000012 T Chip_SSP_SetClockRate
+localhost/Ej.2.1/out/Ej.2.1.elf:1a00162c 0000000a T GPIO2_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000de0 00000026 T Chip_Clock_GetBaseClock
+localhost/Ej.2.1/out/Ej.2.1.elf:1a00035c 0000002a T LED_secuencia_arbitraria_leds
+localhost/Ej.2.1/out/Ej.2.1.elf:10000088 B _bss
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000900 00000032 T Chip_ADC_SetSampleRate
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001640 0000027a T __aeabi_dsub
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001548 00000020 T delayInit
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001944 0000006a T __floatundidf
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W I2S1_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a00107a 0000003e T Chip_SSP_SetBitRate
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000ee4 00000002 T Chip_GPIO_Init
+localhost/Ej.2.1/out/Ej.2.1.elf:1a00226c 00000004 T OscRateIn
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000300 0000005c T LED_parpadear
+localhost/Ej.2.1/out/Ej.2.1.elf:100000bc ? _end_noinit
+localhost/Ej.2.1/out/Ej.2.1.elf:10008000 A _vStackTop
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W SSP1_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000178 T __bss_section_table_end
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0018dc 00000022 T __aeabi_i2d
+localhost/Ej.2.1/out/Ej.2.1.elf:1a00124c 00000194 T gpioInit
+localhost/Ej.2.1/out/Ej.2.1.elf:1a002114 00000002 W __aeabi_ldiv0
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001c04 000001d0 T __divdf3
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0019b0 00000254 T __muldf3
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001438 0000001c T USB0_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W GPIO3_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W SCT_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000ba4 0000001c T Chip_Clock_GetDividerDivisor
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0002fc T __CRP_WORD_START__
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0021a0 00000094 T memset
+localhost/Ej.2.1/out/Ej.2.1.elf:1a00017c 00000002 W MemManage_Handler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000388 00000024 T main
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W WDT_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:2000c000 A __top_RamAHB16
+localhost/Ej.2.1/out/Ej.2.1.elf:1008a000 A __top_RamLoc40
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000182 00000002 W SVC_Handler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001954 0000005a T __aeabi_l2d
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W GPIO7_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000e14 0000003c T Chip_Clock_EnableOpts
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000bc0 000000b8 T Chip_Clock_GetClockInputHz
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000c78 00000080 T Chip_Clock_CalcMainPLLValue
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0010f0 00000038 T SystemInit
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W SPIFI_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W QEI_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000150 T __bss_section_table
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001e04 00000044 T __fixunsdfdi
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0013e0 00000056 T gpioWrite
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000438 00000002 W _fini
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0008c0 00000040 T Chip_ADC_Init
+localhost/Ej.2.1/out/Ej.2.1.elf:100000b8 00000004 B g_pUsbApi
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0005e4 00000038 T Board_SetupMuxing
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000790 000000e8 T Chip_UART_SetBaudFDR
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001144 0000000c T tickRead
+localhost/Ej.2.1/out/Ej.2.1.elf:100000b0 00000008 B tickRateMS
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W ETH_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:10000000 ? _end_uninit_RESERVED
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W CAN0_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:10000000 D _data
+localhost/Ej.2.1/out/Ej.2.1.elf:100000bc B _pvHeapStart
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000178 T __section_table_end
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0010b8 00000038 T Chip_SSP_Init
+localhost/Ej.2.1/out/Ej.2.1.elf:1a002118 00000040 T __aeabi_d2uiz
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W GINT0_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W DAC_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a00058c 00000024 T Board_Debug_Init
+localhost/Ej.2.1/out/Ej.2.1.elf:10000084 D _edata
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000694 00000020 T Chip_I2C_EventHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W M0SUB_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000ee8 00000154 T Chip_SetupCoreClock
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001618 0000000a T GPIO0_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000000 00000040 T g_pfnVectors
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000ed0 00000014 T SystemCoreClockUpdate
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W DMA_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W EVRT_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1b080000 A __top_MFlashB512
+localhost/Ej.2.1/out/Ej.2.1.elf:1a002114 00000002 W __aeabi_idiv0
+localhost/Ej.2.1/out/Ej.2.1.elf:1a00017e 00000002 W BusFault_Handler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000e50 00000034 T Chip_Clock_Enable
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W UART3_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W MCPWM_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W M0APP_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001900 00000042 T __aeabi_f2d
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001454 000000f4 T boardInit
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000040 000000d4 T g_pfnVendorVectors
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001640 0000027a T __subdf3
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W GINT1_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001150 00000018 T tickPowerSet
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000d88 00000058 T Chip_Clock_SetBaseClock
+localhost/Ej.2.1/out/Ej.2.1.elf:1a001128 0000001c T cyclesCounterInit
+localhost/Ej.2.1/out/Ej.2.1.elf:1a0001ba 00000002 W GPIO4_IRQHandler
+localhost/Ej.2.1/out/Ej.2.1.elf:1a000688 0000000c T Board_SystemInit
